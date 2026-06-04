@@ -1,10 +1,12 @@
+import Student from "./Student";
+
 function App() {
-  return (
-    <div>
-      <h1>Hello Nithya!</h1>
-      <p>My First React App</p>
-    </div>
-  );
+    return (
+        <div>
+            <h1>Day 16 - JSX & Components</h1>
+            <Student />
+        </div>
+    );
 }
 
 export default App;
