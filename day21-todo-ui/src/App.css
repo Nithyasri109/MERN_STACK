@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.app {
+  background-image: url("./assets/background.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  padding: 20px;
+}
